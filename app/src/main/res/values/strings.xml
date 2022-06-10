@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad04_App_ANDROID_RadioButton_CheckBox</string>
+    <string name="conversor">CONVERSOR</string>
+    <string name="decimal">decimal</string>
+    <string name="binario">binario</string>
+    <string name="octal">octal</string>
+    <string name="hexadecimal">hexadecimal</string>
+
+    <string name="ingresa_numero">ingresa numero</string>
+    <string name="convertir">convertir</string>
+</resources>
